@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/miles-advani/Dev-Launch-Kit/164991da3e5bc7a557e8d0861a52088d8894250a/assets/logos/logo-ma-dev.svg)](https://www.miles-advani.com/)
+[![Logo](https://raw.githubusercontent.com/miles-advani/miles-advani/85d2810dbfb71838de863321f9688d0fecf30fdb/assets/logo-ma-dev.svg)](https://www.miles-advani.com/)
 
 ## Hey there! 👋
 
